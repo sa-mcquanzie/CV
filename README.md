@@ -1,77 +1,57 @@
-## Your Name
+## Amelia Scott
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hello!
+
+I'm a confident polyglot programmer, Getting Stuff Done enthusiast, and  soon-to-be graduate from [Maker's Academy](https://makers.tech/), a coding bootcamp.
+
+I'm a career changer who previously co-founded an art project space and gallery in South London, which has given a platform to over 50 emerging and established artists since its inception.
+
+Although I'm just starting my career in technology, I am by no means new to tech, having been coding, making, hacking and creating for most of my life, for fun and occasionally profit.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Final project**            |                   |                   |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Peak** (2017 to 2021)
+_Managing Director_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+-
 
 
-#### This Skill
+#### Ruby
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- 
 
-#### Another Skill
+#### Javascript
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+-
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July to October 2021)
 
-#### Your University / College (start_date to end_date)
+-
 
-- Subject, any specialisms
-- Grade
+
+#### Birkbeck, University of London
+
+- Philosophy
+- 2:1
 - Other cool stuff
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+## Other interests
 
-## Hobbies
+I still love Philosophy, which I studied for my degree, and one of my reasons for pursuing a career in technology is that it feels like just the right amount of philosophy-in-action for me.
 
-Any cool stuff that makes you a super part of a software development team
+I play a variety of instruments, mostly with strings. I find that playing and composing music is about equal to coding, in terms of sheer addictiveness, and satisfies a similar desire to get to the heart of how things function, to tinker, iterate and reinvent.
+
+I love science fiction of both the serious and silly varieties — I'm a big fan of science fact, too. When I have the time to burn I'm also partial to boring, grindy simulation games.
