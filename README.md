@@ -64,7 +64,6 @@ _Managing Director_
 #### Birkbeck, University of London
 
 - Philosophy
-- 2:1
 
 ## Other interests
 
