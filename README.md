@@ -14,6 +14,7 @@ Although I'm just starting my career in technology, I am by no means new to tech
 | ---------------------------- | ----------------- | ----------------- |
 | **[Dev's Full Stack Nightmare](https://github.com/Willinlondon/the-game)** | A journey through the anxiety dreams of a junior developer. Through solid early planning, sticking to agile processes and great team communication and support, we managed to pull off an ambitious and _great fun_ final project that we're all proud of and will continue to finesse and expand, post-graduation. | Node and Express for the server side, and the P5 javascript library for HTML canvas interaction |
 | **[Bank Tech Test](https://github.com/sa-mcquanzie/bank-tech-test/)** | A tech test demonstrating TDD and code quality | Ruby |
+| **[Binstagram](https://github.com/sa-mcquanzie/instagram-challenge)** | This was a solo project for Makers where we were tasked with creating an instagram clone using rails. The crux of this challenge was the careful modelling of relationships between entities. | Ruby, Rails with Active Storage |
 |**[Sudoku](https://github.com/sa-mcquanzie/sudoku/)** | This was my final project for [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), before I attended Makers. I'm definitely a much cleaner coder nowadays, but I'm still fond of it! | Ruby, Sinatra, Postgres with Sequel for the backend, plain javascript on the client side |
 
 ## Skills
