@@ -12,7 +12,7 @@ Although I'm just starting my career in technology, I am by no means new to tech
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Dev's Full Stack Nightmare](https://github.com/Willinlondon/the-game)** | Through solid early planning, sticking to agile processes and great team communication and support, we managed to pull off an ambitious and _great fun_ final project that we're all immensely proud of and will continue to finesse and expand, post-graduation. |                   |
+| **[Dev's Full Stack Nightmare](https://github.com/Willinlondon/the-game)** | Through solid early planning, sticking to agile processes and great team communication and support, we managed to pull off an ambitious and _great fun_ final project that we're all immensely proud of and will continue to finesse and expand, post-graduation. | Node and Express for the server side, and the P5 javascript library for HTML canvas interaction|
 
 ## Skills
 
