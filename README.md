@@ -48,7 +48,7 @@ Although I'm just starting my career in technology, I am by no means new to tech
 **Peak** (2017 to 2021)
 _Managing Director_
 
-* Co-founded an art project space / gallery in an unusual and underserved location
+* Co-founded an art project space / gallery in an unusual and underloved location
 * Managed several full time, part time and temporary staff
 * Facilitated the creation, installation and display of exhibitions, at home and internationally
 * Gave a platform to over 50 artists, both emerging and well-established
