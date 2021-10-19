@@ -26,8 +26,6 @@ Although I'm just starting my career in technology, I am by no means new to tech
 * HTML
 * CSS
 * Python
-* Bash
-* C
 
 ### Frameworks, Libraries and Tools
 * Rails
