@@ -6,7 +6,7 @@ I'm a confident polyglot programmer, Getting Stuff Done enthusiast, and recent g
 
 I'm a career changer who previously co-founded an art project space and gallery in South London, which has given a platform to over 50 emerging and established artists since its inception.
 
-Although I'm just starting my career in technology, I am by no means new to tech, having been coding, making, hacking and creating for most of my life, for fun and occasionally profit.
+Although I'm just starting my career in technology, I am by no means new to tech, having been coding, making, hacking and creating for fun, for most of my life.
 
 ## Projects
 
