@@ -19,29 +19,12 @@ Although I'm just starting my career in technology, I am by no means new to tech
 
 ## Skills
 
-### Languages
+||
+----------------------------------------------------
+| Languages | Ruby, Javascript, HTML, CSS, Python |
+| Tools and Frameworks | Rails, Sinatra, Node, Express, Active Record, Rspec, Jasmine, Git, Linux |
+| Processes | Agile Development, Test Driven Development, Object Oriented Programming |
 
-* Ruby
-* Javascript
-* HTML
-* CSS
-* Python
-
-### Frameworks, Libraries and Tools
-* Rails
-* Sinatra
-* Node
-* Express
-* Active Record
-* Rspec
-* Jasmine
-* Git
-* Linux
-
-### Meta
-* Agile Development
-* Test Driven Development
-* Object Oriented Programming
 
 ## Work Experience
 
