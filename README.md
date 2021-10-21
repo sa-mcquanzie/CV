@@ -2,7 +2,7 @@
 
 Hello!
 
-I'm a confident polyglot programmer, Getting Stuff Done enthusiast, and recent graduate from [Maker's Academy](https://makers.tech/), a coding bootcamp.
+I'm a confident polyglot programmer, Getting Stuff Done enthusiast, and recent graduate from [Makers Academy](https://makers.tech/), a coding bootcamp.
 
 I'm a career changer who previously co-founded an art project space and gallery in South London, which has given a platform to over 50 emerging and established artists since its inception.
 
