@@ -1,10 +1,10 @@
 ## William Day
 
-I am a confident, aspiring junior software developer and recent graduate of [Makers Academy](https://makers.tech/), a coding bootcamp. I am very keen to get into the industry and embark on a passionate and engaging career. I have spent the last 19 years living in Spain, near Barcelona, and due to Covid related reasons, have moved to London to seek a new start.
+I am a confident, aspiring junior software developer and recent graduate of [Makers Academy](https://makers.tech/), a coding bootcamp. I am very keen to get into the industry and embark on a passionate and engaging career. I have spent the last 19 years living in Spain, near Barcelona, and due to the pandemic, have moved to London to seek a new start.
 
-My background has always been in hospitality, that's where I started, and I continued progressing to the point of owning my own pub and restaurant.
+My background is in hospitality, where I progressed to the point of owning my own successful pub and restaurant.
 
-Despite only starting my career in development now, I am by no means a stranger to technology, having been building PCs, having a basic understanding of code, gaming, scripting and designing since a very young age.
+Despite only starting my career in development now, I am by no means a stranger to technology, having been building PCs, writing simple code, gaming, scripting and designing since a very young age.
 
 ## Projects
 
@@ -21,10 +21,10 @@ Despite only starting my career in development now, I am by no means a stranger 
 **Shooters Sports & Grill** (late 2014 - late 2020)  
 _Owner_
 
-- Managing the pub (expanded into a restaurant in 2018), as well as the external responsbilities that came with it. I personally would usually rotate among all of the roles in my pub as and when they were needed, these were: 
+- Managing the pub (expanded into a restaurant in 2018), as well as the external responsbilities that came with it. I personally rotated through all of the roles in my pub as and when they were needed, these were: 
 - Bar, this included managing all my drinks stock, counting tills, and ensuring the bar was a friendly lively environment.
-- Kitchen, designing a menu and ensuring my busy small kitchen was up to the task of maintaining the quality, and doing some cooking myself.
-- Floor, this was waitering for the restaurant side of the business, again ensuring all guests were looked after for.
+- Kitchen, designing a menu and ensuring my busy, small kitchen was up to the task of maintaining a high quality, and doing some cooking myself.
+- Floor, this was waitering for the restaurant side of the business, again ensuring all guests were looked after.
 - Security, often I would have to fill in or add to the door or internal security in the bar.
 - Betting, the pub had a small betting booth addon, which was mainly focused on horse racing, but would take all sports bets.
 - Tech Support, the pub boasted an impressive TV and sound system which was installed and maintained by myself.
