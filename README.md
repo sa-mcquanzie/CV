@@ -46,7 +46,7 @@ Although I'm just starting my career in technology, I am by no means new to tech
 ## Work Experience
 
 **Peak** (2017 to 2021)
-_Managing Director_
+_Founder_
 
 * Co-founded an art project space / gallery in an unusual and underloved location
 * Managed several full time, part time and temporary staff
