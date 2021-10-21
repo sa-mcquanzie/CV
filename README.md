@@ -18,10 +18,17 @@ Despite only starting my career in development now, I am by no means a stranger 
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Shooters Sports & Grill** (late 2014 - late 2020)  
+_Owner_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Managing the pub (expanded into a restaurant in 2018), as well as the external responsbilities that came with it. I personally would usually rotate among all of the roles in my pub as and when they were needed, these were: 
+- Bar, this included managing all my drinks stock, counting tills, and ensuring the bar was a friendly lively environment.
+- Kitchen, designing a menu and ensuring my busy small kitchen was up to the task of maintaining the quality, and doing some cooking myself.
+- Floor, this was waitering for the restaurant side of the business, again ensuring all guests were looked after for.
+- Security, often I would have to fill in or add to the door or internal security in the bar.
+- Betting, the pub had a small betting booth addon, which was mainly focused on horse racing, but would take all sports bets.
+- Tech Support, the pub boasted an impressive TV and sound system which was installed and maintained by myself.
+- Accounting, the majority of the company accounts and payrolls I managed internally.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
