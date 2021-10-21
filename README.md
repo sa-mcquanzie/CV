@@ -19,7 +19,6 @@ Although I'm just starting my career in technology, I am by no means new to tech
 
 ## Skills
 
-| | |
 |-----|-----|
 | Languages | Ruby, Javascript, HTML, CSS, Python |
 | Tools and Frameworks | Rails, Sinatra, Node, Express, Active Record, Rspec, Jasmine, Git, Linux |
